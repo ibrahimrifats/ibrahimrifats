@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ibrahimrifatcse
-- 👀 I’m interested in python IT automation & programming contest 
-- 🌱 I’m currently learning python IT automation
-- 💞️ I’m looking to collaborate on python 
+- 👀 I’m interested in programming contest n
 - 📫 How to reach me linkedIN : https://www.linkedin.com/in/ibrahim-refat-67551a216/
  cses pblm link: https://cses.fi/problemset/
 
