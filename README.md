@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimrifatcse&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimrifatcse" /> </p>
 
-- 🌱 I’m currently learning **Android development & Machine learning.**
+- 🌱 I’m currently learning **Android development & Cyber security.**
 
 - 📝 I regularly write articles on [https://medium.com/@rifatinto](https://medium.com/@rifatinto)
 
