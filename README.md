@@ -1,6 +1,6 @@
  (![logo](https://github.com/ibrahimrifatcse/ibrahimrifatcse/blob/main/fdfe.PNG)
 <h1 align="center">Hi 👋, I'm IBRAHIM REFAT</h1>
-<h3 align="center"> compititive programming.</h3>
+<h3 align="center"> compititive programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimrifatcse&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimrifatcse" /> </p>
 
