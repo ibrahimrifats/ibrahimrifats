@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimrifatcse&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimrifatcse" /> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@rifatinto](https://medium.com/@rifatinto)
 
 - 📫 How to reach me **https://www.linkedin.com/in/ibrahim-refat-67551a216/**
 
