@@ -53,6 +53,12 @@
  
 </p>
 
+<h3 align="center">Most Used Programming Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimrifatcse" alt="Top Languages" />
+</p>
+
+
 <h3 align="center">Contributions:</h3>
 <p align="center">
   Here's a visual representation of my contributions on GitHub:
@@ -64,4 +70,3 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
