@@ -15,6 +15,10 @@
    <a href="https://shorturl.at/AJR39" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square&logo=google-chrome" alt="Personal Website" />
   </a>
+   <a href="https://discord.gg/mGE7trpE" target="_blank">
+    <img src="" alt="Discord server" />
+  </a>
+  
 </p>
 
 <p align="center">
