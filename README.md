@@ -15,9 +15,7 @@
    <a href="https://shorturl.at/AJR39" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square&logo=google-chrome" alt="Personal Website" />
   </a>
-   <a href="https://discord.gg/mGE7trpE" target="_blank">
-    <img src="" alt="Discord server" />
-  </a>
+  
   
 </p>
 
@@ -26,21 +24,32 @@
 </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/ibrahim-refat" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
-  </a>
-  <a href="https://fb.com/ibrahimrifat18" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30" />
+ 
+ <a href="https://www.facebook.com/global.ai.software" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=flat-square&logo=facebook" alt="Facebook Page" />
   </a>
   <a href="https://medium.com/@rifatinto" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="30" height="30" />
+    <img src="https://img.shields.io/badge/Medium-Follow-black?style=flat-square&logo=medium" alt="Medium" />
   </a>
-  <a href="https://www.youtube.com/channel/https://www.youtube.com/@ibrahimrifat221" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" />
+  <a href="https://www.youtube.com/@ibrahimrifat221" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube" alt="YouTube" />
   </a>
-  <a href="https://www.leetcode.com/ibrahimrifat221" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
+
+   <a href="https://leetcode.com/ibrahimrifat221/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode" alt="LeetCode" />
+  </a>
+
+  <a href="https://codeforces.com/profile/ibrahimrifat221" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=flat-square&logo=codeforces" alt="Codeforces" />
+  </a>
+  <a href="http://acm.timus.ru/author.aspx?id=337844" target="_blank">
+    <img src="https://img.shields.io/badge/Timus-Profile-orange?style=flat-square&logo=timus" alt="Timus Online Judge" />
+  </a>
+  <a href="http://lightoj.com/user/ibrahimrifatcse" target="_blank">
+    <img src="https://img.shields.io/badge/LightOJ-Profile-green?style=flat-square&logo=chrome" alt="LightOJ" />
+  </a>
+  <a href="https://discord.gg/mGE7trpE" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join-blueviolet?style=flat-square&logo=discord" alt="Discord Server" />
   </a>
 </p>
 
@@ -71,6 +80,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibrahimrifatcse&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
 
 
