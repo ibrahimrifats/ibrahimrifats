@@ -1,3 +1,7 @@
+
+
+
+
 <p align="center">
   <img src="https://github.com/ibrahimrifatcse/ibrahimrifatcse/blob/main/fdfe.PNG" alt="Header Image" width="800" />
 </p>
@@ -28,15 +32,14 @@
  <a href="https://www.facebook.com/global.ai.software" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=flat-square&logo=facebook" alt="Facebook Page" />
   </a>
+  <a href="https://leetcode.com/ibrahimrifat221/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode" alt="LeetCode" />
+  </a>
   <a href="https://medium.com/@rifatinto" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Follow-black?style=flat-square&logo=medium" alt="Medium" />
   </a>
   <a href="https://www.youtube.com/@ibrahimrifat221" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube" alt="YouTube" />
-  </a>
-
-   <a href="https://leetcode.com/ibrahimrifat221/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode" alt="LeetCode" />
   </a>
 
   <a href="https://codeforces.com/profile/ibrahimrifat221" target="_blank">
@@ -51,6 +54,10 @@
   <a href="https://discord.gg/mGE7trpE" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join-blueviolet?style=flat-square&logo=discord" alt="Discord Server" />
   </a>
+  <a href="https://vjudge.net/user/ibrahimrifat221" target="_blank">
+  <img src="https://img.shields.io/badge/VJudge-Profile-orange?style=flat-square&logo=vjudge" alt="VJudge Profile" />
+</a>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
