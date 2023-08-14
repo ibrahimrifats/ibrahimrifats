@@ -1,12 +1,7 @@
-
-
-
-
-<p align="center">
-  <img src="https://github.com/ibrahimrifatcse/ibrahimrifatcse/blob/main/fdfe.PNG" alt="Header Image" width="800" />
-</p>
+ ![result (1)](https://github.com/ibrahimrifatcse/ibrahimrifatcse/assets/101995954/324df373-31c1-4ecb-a2c0-efae306d74fd)
 
 <h1 align="center">Hi 👋, I'm IBRAHIM REFAT</h1>
+
 <h3 align="center">Interested in Software Engineer | Open Source Contributor | Full Stack Developer | Machine Learning Engineer | Backend Developer</h3>
 
 <p align="center">
