@@ -12,8 +12,8 @@
   <a href="https://twitter.com/@RifuRifat1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter" alt="Twitter" />
   </a>
-   <a href="https://shorturl.at/AJR39" target="_blank">
-    <img src="https://ibrahimrifatcse.github.io/ibrahim-rifat/" alt="Personal Website" />
+   <a href="https://ibrahimrifatcse.github.io/ibrahim-rifat/" target="_blank">
+    <img src="https://img.shields.io/badge/Personal-website-blue" alt="Personal Website" />
   </a>
   
   
