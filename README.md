@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter" alt="Twitter" />
   </a>
    <a href="https://shorturl.at/AJR39" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square&logo=google-chrome" alt="Personal Website" />
+    <img src="https://ibrahimrifatcse.github.io/ibrahim-rifat/" alt="Personal Website" />
   </a>
   
   
