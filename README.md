@@ -2,18 +2,15 @@
   
   # Hi there, I'm IBRAHIM REFAT 👋
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineering;Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)
 
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer and Machine Learning enthusiast with a strong foundation in backend development and problem-solving. My expertise spans:
+I'm a passionate Software Engineering and Machine Learning enthusiast with a foundation in backend development and problem-solving. My expertise spans:
 
-- 🤖 Machine Learning Engineering (RAG Systems, Neural Networks)
-- 🔧 Fine-Tuning Large Language Models
-- 💻 Full Stack Development (Django + Python)
 - 🎯 Competitive Programming
 - 🌐 Backend Development
 - 📊 Data Structures & Algorithms
